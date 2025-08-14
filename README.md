@@ -191,6 +191,7 @@ jupyter>=1.0.0
 - `train_xgboost_model()`: XGBoost training with hyperparameter optimization
 - `evaluate_predictions()`: Comprehensive model evaluation
 - `create_submission()`: Generate Kaggle submission format
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/32d99ff7-ceec-4f93-ab9a-ba8f054edba3" />
 
 ## 📊 Performance Analysis
 
@@ -227,15 +228,12 @@ jupyter>=1.0.0
 
 Contributions are welcome! Please read our contributing guidelines and submit pull requests for any improvements.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🏆 Acknowledgments
 
 - **NK Securities Research** for hosting the competition
 - **Kaggle Community** for valuable discussions and insights
-- **Contributors** who helped improve the codebase
 
 ---
 
