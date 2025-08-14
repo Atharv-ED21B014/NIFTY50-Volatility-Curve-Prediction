@@ -13,7 +13,6 @@ This repository contains solutions for the **NK Securities Research Volatility C
 - **Task**: Predict missing implied volatility values across different strikes
 - **Data**: Per-second historical NIFTY50 index options data
 - **Evaluation**: Mean Squared Error (MSE)
-- **Prize Pool**: $9,471 USD
 
 ## 📊 Problem Statement
 
